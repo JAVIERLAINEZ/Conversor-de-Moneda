@@ -33,5 +33,38 @@ The project is currently active and fully functional. Future enhancements and ad
 - **Error Handling**: Robust error handling for invalid inputs and API issues.
 
 ### Demo
+Sea bienvenido/a al Conversor de Moneda =]
 
+Dólar => Peso argentino
 
+Peso argentino => Dólar
+
+Dólar => Real brasileño
+
+Real brasileño => Dólar
+
+Dólar => Peso colombiano
+
+Peso colombiano => Dólar
+
+Salir Elija una opción:
+
+## Access to the Project To access the project, clone the repository using the following command: ```sh git clone https://github.com/JAVIERLAINEZ/Conversor-de-Moneda.git
+
+Technologies Used
+Java: The primary programming language used to develop the application.
+
+HttpClient: Used to make HTTP requests to the ExchangeRate API.
+
+Gson: Library for parsing JSON data from the API.
+
+ExchangeRate API: Provides real-time exchange rates for currency conversion.
+
+Contributors
+Javier Lainez - JAVIERLAINEZ
+
+Developers
+Javier Lainez - Lead Developer
+
+License
+This project is free license
