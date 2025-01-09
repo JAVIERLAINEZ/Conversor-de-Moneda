@@ -61,7 +61,7 @@ Gson: Library for parsing JSON data from the API.
 ExchangeRate API: Provides real-time exchange rates for currency conversion.
 
 ## Contributors
-Javier Lainez - JAVIERLAINEZ
+Alura LATAM as Oracle Partner of the ONE Program, Backend Specialization 
 
 ## Developers
 Javier Lainez - Lead Developer
