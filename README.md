@@ -51,7 +51,7 @@ Salir Elija una opción:
 
 ## Access to the Project To access the project, clone the repository using the following command: ```sh git clone https://github.com/JAVIERLAINEZ/Conversor-de-Moneda.git
 
-Technologies Used
+## Technologies Used
 Java: The primary programming language used to develop the application.
 
 HttpClient: Used to make HTTP requests to the ExchangeRate API.
@@ -60,11 +60,11 @@ Gson: Library for parsing JSON data from the API.
 
 ExchangeRate API: Provides real-time exchange rates for currency conversion.
 
-Contributors
+## Contributors
 Javier Lainez - JAVIERLAINEZ
 
-Developers
+## Developers
 Javier Lainez - Lead Developer
 
-License
+## License
 This project is free license
