@@ -4,7 +4,7 @@
 
 
 
-![Badge](https://img.shields.io/badge/Status-Active-green) ![Java](https://img.shields.io/badge/Java-17-brightgreen) ![License](https://img.shields.io/badge/License-MIT-blue)
+![Badge](https://img.shields.io/badge/Status-Active-green) ![Java](https://img.shields.io/badge/Java-17-brightgreen) ![License]free
 
 ## Table of Contents
 
