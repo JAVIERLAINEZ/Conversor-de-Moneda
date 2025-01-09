@@ -1,7 +1,5 @@
 # Conversor de Moneda
 
-# Conversor de Moneda
-
 <img src="https://github.com/user-attachments/assets/8c45aca0-91c4-4ae5-b630-2f83b260b8ed" alt="simple logo for Conversor de Moneda" width="400" height="400">
 
 
